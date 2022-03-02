@@ -1,4 +1,4 @@
-# practice
+# twelCode
 
 ![Screenshot_2022-02-20-21-05-02-72_e0526cd202638c6fe9c23be2a433366e](https://user-images.githubusercontent.com/71784758/154850673-3e57a881-6914-496f-b81f-9c818eed3855.jpg)
 ![Screenshot_2022-02-20-21-05-05-56_e0526cd202638c6fe9c23be2a433366e](https://user-images.githubusercontent.com/71784758/154850677-e3530433-0dc0-4fb0-9395-68c1a8210c4e.jpg)
